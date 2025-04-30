@@ -13,7 +13,7 @@ form button { width: 100%; }
 .whatsapp-button { position: fixed; bottom: 20px; right: 20px; background: #25D366; color: white; font-size: 30px; padding: 15px; border-radius: 50%; text-align: center; text-decoration: none; }
 #chatbot { position: fixed; bottom: 60px; right: 20px; width: 300px; background: #4169E1; border-radius: 10px; overflow: hidden; font-size: 14px; }
 .chat-header { background: #003366; color: white; padding: 10px; display: flex; align-items: center; }
-.avatar { width: 200px; height: 200px; border-radius: 50%; margin-right: 100px; }
+.avatar { width: 00px; height: 00px; border-radius: 50%; margin-right: 00px; }
 .chat-body { background: #66B2FF; padding: 10px; height: 50px; overflow-y: auto; }
 #chat-input { width: 100%; padding: 10px; border: none; border-top: 1px solid #ccc; }
 #chat-input:focus { outline: none; }
